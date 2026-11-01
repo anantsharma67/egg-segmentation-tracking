@@ -1,0 +1,82 @@
+{
+ "dropped_instances": [
+  {
+   "image": 31,
+   "id": 1,
+   "area_frac": 0.42,
+   "score": 0.49
+  },
+  {
+   "image": 40,
+   "id": 2,
+   "area_frac": 0.35,
+   "score": 0.39
+  },
+  {
+   "image": 124,
+   "id": 1,
+   "area_frac": 0.43,
+   "score": 0.38
+  },
+  {
+   "image": 135,
+   "id": 1,
+   "area_frac": 0.48,
+   "score": 0.44
+  },
+  {
+   "image": 145,
+   "id": 1,
+   "area_frac": 0.49,
+   "score": 0.34
+  }
+ ],
+ "excluded": [
+  {
+   "image": 42,
+   "reason": "egg tray, eggs partly hidden by a rod"
+  },
+  {
+   "image": 116,
+   "reason": "egg tray, no clearly visible single egg"
+  }
+ ],
+ "added": [
+  {
+   "image": 105,
+   "box": [
+    26,
+    373,
+    248,
+    488
+   ]
+  },
+  {
+   "image": 124,
+   "box": [
+    352,
+    248,
+    483,
+    379
+   ]
+  },
+  {
+   "image": 134,
+   "box": [
+    0,
+    340,
+    287,
+    496
+   ]
+  },
+  {
+   "image": 145,
+   "box": [
+    274,
+    274,
+    431,
+    405
+   ]
+  }
+ ]
+}

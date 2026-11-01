@@ -1,0 +1,13 @@
+numpy
+opencv-python-headless
+scipy
+scikit-learn
+imagehash
+matplotlib
+pillow
+# Task 1 only (GPU recommended)
+torch
+torchvision
+transformers
+git+https://github.com/facebookresearch/segment-anything.git
+yt-dlp
